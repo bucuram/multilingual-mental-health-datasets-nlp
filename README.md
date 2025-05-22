@@ -7,6 +7,9 @@ A **complete** and **up-to-date collection of 108 datasets** that can be used fo
 
 </div>
 
+## <a name="intro"></a> 📘 Introduction
+*The increasing prevalence of mental health disorders globally highlights the urgent need for effective digital screening methods that can be used in multilingual contexts. Most existing studies, however, focus on English data, overlooking critical mental health signals that may be present in non-English texts. To address this important gap, we present the first survey on the detection of mental health disorders using multilingual social media data. We investigate the cultural nuances that influence online language patterns and self-disclosure behaviors, and how these factors can impact the performance of NLP tools. Additionally, we provide a comprehensive list of multilingual data collections that can be used for developing NLP models for mental health screening. Our findings can inform the design of effective multilingual mental health screening tools that can meet the needs of diverse populations, ultimately improving mental health outcomes on a global scale.*
+
 <div align="center"> <img src="https://github.com/user-attachments/assets/ba1804b8-dd0f-4476-b7b6-d1561574e122" alt="annotations" style="width:50%; height:auto;"> </div>
 
 ### For datasets in English, please refer to: 
