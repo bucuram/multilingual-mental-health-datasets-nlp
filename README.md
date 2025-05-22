@@ -1,7 +1,13 @@
 <h1 align="center"><span style="font-weight:normal">Multilingual datasets for mental health problems detection using data posted on online platforms</h1>
 
+## <a name="tldr"> </a> TL;DR 
+<div align="center">
+  
+A **complete** and **up-to-date collection of 108 datasets** that can be used for mental health research on social media data in languages other than English.
 
-<img src="https://github.com/user-attachments/assets/ba1804b8-dd0f-4476-b7b6-d1561574e122" alt="annotations" style="width:50%; height:auto;">
+</div>
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/ba1804b8-dd0f-4476-b7b6-d1561574e122" alt="annotations" style="width:50%; height:auto;"> </div>
 
 ### For datasets in English, please refer to: 
 
