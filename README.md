@@ -9,6 +9,19 @@
 
 📙 [https://github.com/kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets)
 
+## <a name="citation"></a> 📖 Citation
+If you found our list of datasets useful, please cite our paper:
+
+[A Survey on Multilingual Mental Disorders Detection from Social Media Data](https://arxiv.org/pdf/2505.15556)
+
+```
+@article{bucur2025multilingual,
+  author={Bucur, Ana-Maria and Zampieri, Marcos and Ranasinghe, Tharindu and Crestani, Fabio},
+  title={A Survey on Multilingual Mental Disorders Detection from Social Media Data},
+  journal={arXiv preprint arXiv:2505.15556}, 
+  year={2025},
+```
+
 
 ## 📚 Data availability
 The labels for data availability were inspired by the work of [Harrigian et al. (2021)](https://browse.arxiv.org/pdf/2011.05233.pdf), and are explained below: 
