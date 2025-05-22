@@ -1,10 +1,13 @@
 <h1 align="center"><span style="font-weight:normal">Multilingual datasets for mental health problems detection using data posted on online platforms</h1>
 
-For datasets in English, please refer to: 
 
-[https://github.com/bucuram/depression-datasets-nlp](https://github.com/bucuram/depression-datasets-nlp)
+<img src="https://github.com/user-attachments/assets/ba1804b8-dd0f-4476-b7b6-d1561574e122" alt="annotations" style="width:50%; height:auto;">
 
-[https://github.com/kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets)
+### For datasets in English, please refer to: 
+
+📘 [https://github.com/bucuram/depression-datasets-nlp](https://github.com/bucuram/depression-datasets-nlp)
+
+📙 [https://github.com/kharrigian/mental-health-datasets](https://github.com/kharrigian/mental-health-datasets)
 
 
 ## 📚 Data availability
