@@ -1,11 +1,16 @@
-<h1 align="center"><span style="font-weight:normal">Multilingual datasets for mental health problems detection using data posted on online platforms</h1>
+<h1 align="center"><span style="font-weight:normal">A Survey on Multilingual Mental Disorders Detection from Social Media Data</h1>
 
-## <a name="tldr"> </a> TL;DR 
+
+
 <div align="center">
-  
-A **complete** and **up-to-date collection of 108 datasets** that can be used for mental health research on social media data in languages other than English.
+
+[Ana-Maria Bucur](https://scholar.google.com/citations?user=TQuQ5IAAAAAJ&hl=en), [Marcos Zampieri](https://scholar.google.com/citations?user=vAx7VsoAAAAJ&hl=en), [Tharindu Ranasinghe](https://scholar.google.com/citations?user=9t7WhIIAAAAJ&hl=en), [Fabio Crestani](https://scholar.google.com/citations?user=EoGBsiMAAAAJ&hl=en)
 
 </div>
+
+## <a name="tldr"> </a> TL;DR: A **complete** and **up-to-date collection of 108 datasets** that can be used for mental health research on social media data in languages other than English.
+
+
 
 ## <a name="intro"></a> 📘 Introduction
 *The increasing prevalence of mental health disorders globally highlights the urgent need for effective digital screening methods that can be used in multilingual contexts. Most existing studies, however, focus on English data, overlooking critical mental health signals that may be present in non-English texts. To address this important gap, we present the first survey on the detection of mental health disorders using multilingual social media data. We investigate the cultural nuances that influence online language patterns and self-disclosure behaviors, and how these factors can impact the performance of NLP tools. Additionally, we provide a comprehensive list of multilingual data collections that can be used for developing NLP models for mental health screening. Our findings can inform the design of effective multilingual mental health screening tools that can meet the needs of diverse populations, ultimately improving mental health outcomes on a global scale.*
@@ -24,11 +29,11 @@ If you found our list of datasets useful, please cite our paper:
 [A Survey on Multilingual Mental Disorders Detection from Social Media Data](https://arxiv.org/pdf/2505.15556)
 
 ```
-@article{bucur2025multilingual,
+@inproceedings{bucur2025multilingual,
   author={Bucur, Ana-Maria and Zampieri, Marcos and Ranasinghe, Tharindu and Crestani, Fabio},
   title={A Survey on Multilingual Mental Disorders Detection from Social Media Data},
-  journal={arXiv preprint arXiv:2505.15556}, 
-  year={2025},
+  booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)}, 
+  year={2026},
 ```
 
 
