@@ -8,12 +8,13 @@
 
 </div>
 
-## <a name="tldr"> </a> TL;DR: A **complete** and **up-to-date collection of 108 datasets** that can be used for mental health research on social media data in languages other than English.
+## <a name="tldr"> </a> TL;DR: A **complete** and **up-to-date collection of 108*** **datasets** that can be used for mental health research on social media data in languages other than English.
 
+*as of January 2026
 
 
 ## <a name="intro"></a> 📘 Introduction
-*The increasing prevalence of mental health disorders globally highlights the urgent need for effective digital screening methods that can be used in multilingual contexts. Most existing studies, however, focus on English data, overlooking critical mental health signals that may be present in non-English texts. To address this important gap, we present the first survey on the detection of mental health disorders using multilingual social media data. We investigate the cultural nuances that influence online language patterns and self-disclosure behaviors, and how these factors can impact the performance of NLP tools. Additionally, we provide a comprehensive list of multilingual data collections that can be used for developing NLP models for mental health screening. Our findings can inform the design of effective multilingual mental health screening tools that can meet the needs of diverse populations, ultimately improving mental health outcomes on a global scale.*
+*The increasing prevalence of mental disorders globally highlights the urgent need for effective digital screening methods that can be used in multilingual contexts. Most existing studies, however, focus on English data, overlooking critical mental health signals that may be present in non-English texts. To address this gap, we present a survey of the detection of mental disorders using social media data beyond the English language. We compile a comprehensive list of 108 datasets spanning 25 languages that can be used for developing NLP models for mental health screening. In addition, we discuss the cultural nuances that influence online language patterns and self-disclosure behaviors, and how these factors can impact the performance of NLP tools. Our survey highlights major challenges, including the scarcity of resources for low- and mid-resource languages and the dominance of depression-focused data over other disorders. By identifying these gaps, we advocate for interdisciplinary collaborations and the development of multilingual benchmarks to enhance mental health screening worldwide.*
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/ba1804b8-dd0f-4476-b7b6-d1561574e122" alt="annotations" style="width:50%; height:auto;"> </div>
 
