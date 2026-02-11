@@ -30,7 +30,7 @@ If you found our list of datasets useful, please cite our paper:
 [A Survey on Multilingual Mental Disorders Detection from Social Media Data](https://arxiv.org/pdf/2505.15556)
 
 ```
-@inproceedings{bucur2025multilingual,
+@inproceedings{bucur2026multilingual,
   author={Bucur, Ana-Maria and Zampieri, Marcos and Ranasinghe, Tharindu and Crestani, Fabio},
   title={A Survey on Multilingual Mental Disorders Detection from Social Media Data},
   booktitle={Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)}, 
